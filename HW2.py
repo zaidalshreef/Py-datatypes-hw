@@ -8,7 +8,7 @@ list1 = [2,0,1,0]
 print(len(list1)) # number of elements in list
 
 # 2 
-print(list[0])  #  2 
+print(list1[0])  #  2 
 
 # 3
 print(list1.count(0))  # in the list two 0
