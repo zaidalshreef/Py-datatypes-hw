@@ -23,13 +23,13 @@ Notes:
 -  Code: ``` 2 in list```
 
 6. Output: ```[2, 0, 1, 0, 'A'] ```
--  Code: ```list+['A']``` 
+-  Code: ```list+['A'] or list.append("A")``` 
 
 7. Output: ```[0, 0, 1, 2] ```
 -  Code: ```list.sort()```
 
 8. Output: ``` [2, 0, 1] ``` 
--  Code: ```list(set(list)) or list.remove(0)```
+-  Code: ```list(set(list)) or list.remove(0) or list[1:]```
 
 9. Output: ```[0, 1] ```
 -  Code: ```list[1:3]``` 
