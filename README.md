@@ -29,7 +29,7 @@ Notes:
 -  Code: ```list.sort()```
 
 8. Output: ``` [2, 0, 1] ``` 
--  Code: ```list(set(list)) or list.remove(0) or list[1:]```
+-  Code: ```list(set(list)) or list.pop() or list[:3]```
 
 9. Output: ```[0, 1] ```
 -  Code: ```list[1:3]``` 
